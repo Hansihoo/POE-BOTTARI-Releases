@@ -48,4 +48,3 @@ See the full [Privacy Policy](PRIVACY.md).
 ## Support
 
 Use [GitHub Issues](https://github.com/Hansihoo/POE-BOTTARI-Releases/issues) for reproducible bugs and release questions. Do not include account credentials, cookies, POESESSID values, OAuth tokens, private build files, or other secrets.
-

@@ -63,4 +63,3 @@ If the extension's data practices change, this policy and the in-product disclos
 ## Contact
 
 For privacy or support questions, open an issue in the [POE BOTTARI Releases repository](https://github.com/Hansihoo/POE-BOTTARI-Releases/issues). Do not post credentials, private build data, or other secrets.
-
