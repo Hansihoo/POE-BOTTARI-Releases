@@ -4,7 +4,7 @@
 
 > 비공식 커뮤니티 프로젝트이며 Grinding Gear Games가 제작하거나 보증한 프로그램이 아닙니다.
 
-![POE 보따리 메인 화면](assets/product/0.1.3/desktop-overview.png)
+![POE 보따리 메인 화면](assets/product/0.1.4/desktop-overview.png)
 
 ## 무엇을 할 수 있나요?
 
@@ -20,17 +20,17 @@
 
 ### 게임 단축키
 
-![게임 단축키 설정](assets/product/0.1.3/game-shortcuts.png)
+![게임 단축키 설정](assets/product/0.1.4/game-shortcuts.png)
 
 ### 제작 시뮬레이터
 
-![POE1 제작 시뮬레이터](assets/product/0.1.3/crafting-workbench.png)
+![POE1 제작 시뮬레이터](assets/product/0.1.4/crafting-workbench.png)
 
 ### Chrome 확장프로그램과 가격 검색
 
 <p>
-  <img src="assets/product/0.1.3/chrome-extension.png" alt="Chrome 확장프로그램 설정" width="340">
-  <img src="assets/product/0.1.3/trade-price-search.png" alt="아이템 가격 검색 결과" width="620">
+  <img src="assets/product/0.1.4/chrome-extension.png" alt="Chrome 확장프로그램 설정" width="340">
+  <img src="assets/product/0.1.4/trade-price-search.png" alt="아이템 가격 검색 결과" width="620">
 </p>
 
 ## 다운로드
@@ -46,7 +46,7 @@
 2. 필요하면 PowerShell에서 무결성을 확인합니다.
 
    ```powershell
-   Get-FileHash .\POE-BOTTARI-Setup-community-0.1.3.exe -Algorithm SHA256
+   Get-FileHash .\POE-BOTTARI-Setup-community-0.1.4.exe -Algorithm SHA256
    ```
 
 3. 설치 파일을 실행하고 POE 보따리를 시작합니다.
